@@ -1,0 +1,18 @@
+.booksapp {
+    text-align: center;
+    margin: 20px;
+  }
+  
+.book-list {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+.book {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 0px 5px;
+    width: 200px;
+    border-radius: 5px;
+  }
